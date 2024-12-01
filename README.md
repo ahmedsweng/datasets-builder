@@ -1,6 +1,6 @@
-# JS Text Processing Utilities
+# JS Datasets Builder
 
-A collection of JavaScript utilities for processing Arabic text (focusing on Algerian dialect) and web scraping capabilities for Wattpad stories.
+A collection of JavaScript utilities for processing Arabic text (focusing on Algerian dialect) and web scraping capabilities for Wattpad storiesa and more.
 
 ## Features
 
@@ -21,7 +21,7 @@ A collection of JavaScript utilities for processing Arabic text (focusing on Alg
 
 ```bash
 git clone <repository-url>
-cd js-utilities
+cd datasets-builder
 ```
 
 2. Install dependencies:
@@ -39,8 +39,7 @@ npm install
 │ ├── clean-results.js # Results processing
 │ └── wattPadScrapper.js # Wattpad scraping functionality
 ├── data/
-│ └── algerian/ # Directory for Algerian dialect data
-│ └── result/ # Processed results directory
+│ └── algerian/ # Directory for Algerian dialect data and results
 ```
 
 ## Usage
